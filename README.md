@@ -1,2 +1,2 @@
 # Zepto_data_analysis
-Developed a real-world data analytics project using an e-commerce inventory dataset from Zepto, a leading quick-commerce startup in India. Simulated complete analyst workflows including data cleaning, exploratory analysis, and visualization. Delivered actionable business insights to support inventory optimization and decision-making
+A comprehensive real-world data analytics project built on an e-commerce inventory dataset scraped from Zepto, one of India’s fastest-growing quick-commerce startups. The project replicates end-to-end analyst workflows — from raw data exploration to business-oriented insights.
